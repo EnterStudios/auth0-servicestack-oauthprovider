@@ -9,7 +9,6 @@ Auth0 OAuthProvider for ServiceStack.
 Open Web.config file and set the Auth0 settings:
 
 ~~~xml
-<!-- Auth0 Settings -->
 <add key="oauth.auth0.AppId" value="YOUR CLIENT ID" />
 <add key="oauth.auth0.AppSecret" value="YOUR CLIENT SECRET" />
 <add key="oauth.auth0.OAuthServerUrl" value="YOUR NAMESPACE: https://{tenant}.auth0.com" />
