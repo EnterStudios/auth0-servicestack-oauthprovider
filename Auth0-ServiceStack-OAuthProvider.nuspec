@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>Auth0-ServiceStack-OAuthProvider</id>
-        <version>0.0.1</version>
+        <version>0.0.2</version>
         <title>Auth0 OAuthProvider for ServiceStack</title>
         <authors>Eugenio Pace, Sebastian Iacomuzzi</authors>
         <owners>auth0</owners>
