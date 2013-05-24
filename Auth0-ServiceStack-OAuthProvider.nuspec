@@ -10,7 +10,7 @@
         <projectUrl>http://auth0.com</projectUrl>
         <iconUrl>https://secure.gravatar.com/avatar/805765c256ff8617fcad483b5476faf2?s=420</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description></description>
+        <description>Auth0 OAuthProvider for ServiceStack.</description>
         <summary>Auth0 OAuthProvider for ServiceStack</summary>
         <tags>webapi, Auth0, OAuth, ServiceStack</tags>
         <dependencies>
