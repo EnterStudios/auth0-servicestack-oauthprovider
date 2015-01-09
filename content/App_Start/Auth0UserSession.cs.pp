@@ -1,6 +1,6 @@
 ﻿namespace $rootnamespace$.App_Start
 {
-	using ServiceStack.ServiceInterface.Auth;
+	using ServiceStack;
     using System;
     using System.Collections.Generic;
 
